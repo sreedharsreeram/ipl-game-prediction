@@ -1,1 +1,1 @@
-# ipl-game-prediction
+machine learning model that predicts ipl games
